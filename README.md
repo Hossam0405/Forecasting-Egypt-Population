@@ -1,0 +1,2 @@
+# Forecasting-Egypt-Population using AUTO_ARIMA model
+#### This project aims to predict the population of Egypt for the period (2016-2030), using the data downloaded from www.data.world of the population of Egypt over the period (1960-2015). The coding part will be done in python with the aid of jupyter notebook and the model will be used is the auto_arima model which will choose the best adapted model to our data.
